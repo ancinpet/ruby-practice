@@ -1,0 +1,12 @@
+#Sudoku solver
+
+Also solves the medium specs (time fluctuates between 3 - 30 seconds for the entire rspec spec command, on average around 6 seconds)
+
+
+Uses rspec to run specs. Run with 
+
+```
+rspec spec
+```
+
+Can be made fun of.
